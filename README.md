@@ -1,7 +1,7 @@
 **Hey There,** People!  
-**I am** Shrey  
-**I am** just a random person  
-**I like**  
+**I am** Shrey  ;
+just a random person  
+***I like:***  
 - computer stuff
 - minceraft
 - food
@@ -9,5 +9,5 @@
 - experimenting with stuff
 - speedrunning games
 - finding ways to break softwares   
-and more stuff  
-oh and look at [this](https://shreyanshnarwe1.github.io)!
+and more stuff!  
+oh~! and look at: [this](https://miqumi.github.io)!
