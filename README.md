@@ -2,8 +2,7 @@
 **I am** Shrey  ;
 just a random person  
 ***I like:***  
-- tinkering with stuff
-= to break more stuff
+- tinkering with stuff (to break more stuff /:S)
 - minceraft
 - food
 - my bed
