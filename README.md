@@ -3,7 +3,7 @@
 just a random person  
 ***I like:***  
 - tinkering with stuff
-= (to break more stuff)
+= to break more stuff
 - minceraft
 - food
 - my bed
