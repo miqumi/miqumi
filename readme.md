@@ -4,3 +4,7 @@ random person
 - speedrunning gaemes
 - finding ways to break stuff  
 and more stuff!
+
+
+i am learning:
+- how to talk
