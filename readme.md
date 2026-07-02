@@ -7,4 +7,4 @@ and more stuff!
 
 
 i am learning:
-- how to talk
+- how to talk { please help if you can i cant figure it out :( }
